@@ -1,0 +1,38 @@
+body {
+    background-color: #fff8dc;
+}
+
+
+.h1 {
+    position: relative;
+    font-size: 95px;
+    font-family: "Onyxia", sans-serif;
+    font-weight: lighter;
+    letter-spacing: .2rem;
+    
+}
+
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+    
+}
+
+a:visited {
+    color: darkred;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #696969;
+    text-decoration: none;
+}
+
+a:active {
+    color: brown;
+    background-color: transparent;
+    text-decoration: none;
+}
+
