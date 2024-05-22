@@ -1,0 +1,18 @@
+body {
+    background-color: #fff8dc;
+} 
+
+.header {
+    position: relative;
+    font-size: 95px;
+    font-family: "Onyxia", sans-serif;
+    font-weight: lighter;
+    letter-spacing: .2rem;
+}
+
+img {
+    height: 500px;
+    width: 500px;
+    object-fit: cover;
+}
+
