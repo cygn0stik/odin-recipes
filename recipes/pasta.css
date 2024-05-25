@@ -1,3 +1,10 @@
+@font-face {
+    font-family: "Druk Wide Bold";
+    src: url(druk.ttf);
+}
+
+
+
 body {
     font-family: "Druk Wide Bold";
     background-color: #fffdd0
