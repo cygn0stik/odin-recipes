@@ -1,0 +1,41 @@
+body {
+    font-family: "Druk Wide Bold";
+    background-color: #fffdd0
+    
+   
+    
+} 
+
+
+img {
+    float: left;
+    margin-right: 27px;
+    margin-bottom: 20px;
+    
+
+}
+
+h1 {
+    color:black; 
+    font-size: 4rem;
+    text-transform: lowercase;
+}
+
+h2 {
+    color: black ;
+    font-size: 2rem;
+    text-transform: lowercase;
+   
+
+    
+  
+}
+
+.top-section,
+.mid-section,
+.bottom-section {
+    color: black;
+    font-size: 13px;
+    text-transform: lowercase;
+
+}
